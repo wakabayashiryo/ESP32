@@ -35,6 +35,11 @@
     python2 /home/evaota/ESPworkspace/esp-idf/components/esptool_py/esptool/espsecure.py generate_signing_key /home/evaota/ESPworkspace/myapp/secure_boot_signing_key.pem
     
 ~~~
+## ~Version~
 
+|version  |Date|Contents|
+|:-----:|:-------:|:----------------|
+|ver1.0||2017/6/27|add infomation of version|
+    
 ## ~License Information~ 
         This software is released under the MIT License, see LICENSE
