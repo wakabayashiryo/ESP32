@@ -16,8 +16,8 @@
      and Add PATH as follows in ~/.bashrc
 
 ~~~
-    export PATH=$PATH:$HOME/ESP32/xtensa-esp32-elf/bin
-    export IDF_PATH=~/ESP32/esp-idf
+    export PATH=$PATH:$HOME/ESP32_IDF/xtensa-esp32-elf/bin
+    export IDF_PATH=~/ESP32_IDF/esp-idf
 ~~~
 
 - ## After Installed Toolchain
