@@ -1,4 +1,4 @@
-# Instruction install ESP32 development envirment on arduino IED
+# Instruction install ESP32 development envirment on arduino IDE
 
 
 #### ***Expected Package before install Toolchain***
@@ -15,7 +15,7 @@
     1. input below URL in board manager URL box in enviroment configration
         > https://dl.espressif.com/dl/package_esp32_index.json   
 
-        ![](./pictures/BoradManager.png)
+        ![](./pictures/BoardManager.png)
     2. install esp32 board 
         ![](./pictures/install.png)
 
