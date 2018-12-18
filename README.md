@@ -31,6 +31,8 @@
     - [KERI's Lab](https://kerikeri.top/posts/2017-06-24-esp32-dual-core/)   
     - [garretlab](https://garretlab.web.fc2.com/arduino/esp32/lab/task/index.html)
 - ## NOTE
+    - ### Display TypeTrue font using ESP32
+        https://garretlab.web.fc2.com/arduino/esp32/lab/truetype/index.html
     - ### Disable boot message
         Default serial, boot message are output when reset,
         ~~~
