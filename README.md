@@ -1,4 +1,4 @@
-# Instruction install ESP32 development envirment on arduino IDE
+# Instruction install ESP32 & M5stack development envirment on arduino IDE
 
 
 #### ***Expected Package before install Toolchain***
@@ -10,7 +10,7 @@
     > sudo pip3 install pyserial
 - Leatest Arduino IDE
 
-- ## Add ESP32 borads on arduino
+- ## Add ESP32 boards on arduino
 
     1. input below URL in board manager URL box in enviroment configration
         > https://dl.espressif.com/dl/package_esp32_index.json   
@@ -23,6 +23,7 @@
 - ## Hardware difinition as Arduino(japanese)
     - [TIPS of about ESP32 by switch-sience](https://trac.switch-science.com/wiki/esp32_tips)   
     - [Article of ESP32](https://ht-deko.com/arduino/esp-wroom-32.html#17)
+    - [M5stack Product Documents](https://docs.m5stack.com/#/en/)
 
 - ## API Reference and other documents
     Access [Espressif ESP32 official site](https://docs.espressif.com/projects/esp-idf/en/latest/get-started/linux-setup.html)
@@ -30,7 +31,14 @@
 - ## How to use RTOS for ESP32
     - [KERI's Lab](https://kerikeri.top/posts/2017-06-24-esp32-dual-core/)   
     - [garretlab](https://garretlab.web.fc2.com/arduino/esp32/lab/task/index.html)
+
+- ## M5stack Works
+    - [mgo-tec電子工作](https://www.mgo-tec.com/)    
+    - [mgo-tec電子工作 M5camera](https://www.mgo-tec.com/blog-entry-m5camera-arduino.html)    
+    - [ 屋根裏実験室 M5Stackを使ってみる](http://itoi.jp/M5Stack.html)
+
 - ## NOTE
+    
     - ### Display TypeTrue font using ESP32
         https://garretlab.web.fc2.com/arduino/esp32/lab/truetype/index.html
     - ### Disable boot message
@@ -129,7 +137,7 @@
     |ver1.1 |2017/9/27|Updated Documents|
     |ver1.2 |2018/10/9|fixed layout|
     |ver2.0 |2018/12/11|only use arduino|
-    |ver2.1 |2018/12/13|update exsample|
+    |ver2.1 |2018/12/13|update example|
 
 
 - ## License Information
