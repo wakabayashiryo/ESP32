@@ -26,7 +26,7 @@
     - [M5stack Product Documents](https://docs.m5stack.com/#/en/)
 
 - ## API Reference and other documents
-    Access [Espressif ESP32 official site](https://docs.espressif.com/projects/esp-idf/en/latest/get-started/linux-setup.html)
+    Access [Espressif ESP32 official site](https://docs.espressif.com/projects/esp-idf/en/latest/)
 
 - ## How to use RTOS for ESP32
     - [KERI's Lab](https://kerikeri.top/posts/2017-06-24-esp32-dual-core/)   
